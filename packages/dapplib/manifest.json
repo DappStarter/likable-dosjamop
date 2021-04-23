@@ -1,0 +1,19 @@
+{
+    "name": "blah",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "$SNAP",
+        "/category/asset_value_tracking/token/symbol": "$SNAP",
+        "/category/asset_value_tracking/token/decimals": "10",
+        "/category/asset_value_tracking/token/supply": "10000000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/collection/entity": true
+    }
+}
